@@ -1,0 +1,16 @@
+{
+  "name": "lotr-lcg-strange-eons-bleed-plugin",
+  "private": true,
+  "description": "Strange Eons plug-in: print-ready LotR LCG components with real 1/6\" bleed frames.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "release": "node scripts/release.js"
+  },
+  "dependencies": {
+    "fflate": "^0.8.3"
+  }
+}

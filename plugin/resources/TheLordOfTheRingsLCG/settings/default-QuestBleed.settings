@@ -1,0 +1,10 @@
+Template = Standard
+QuestBleed-Portrait-portrait-template = TheLordOfTheRingsLCG/portrait/Caspar David Friedrich - Abtei im Eichwald.jpg
+Progress = 4
+Stage = 1
+PortraitTint = true
+PortraitShare = true
+NameShare = true
+Artist = Caspar David Friedrich
+NameBack = 
+QuestTint = new

@@ -1,0 +1,32 @@
+# Actions → Release → Run workflow: build and publish a new release.
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      notes:
+        description: "Release notes (optional; the commits since the last release are listed either way)"
+        type: string
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_NOTES: ${{ inputs.notes }}

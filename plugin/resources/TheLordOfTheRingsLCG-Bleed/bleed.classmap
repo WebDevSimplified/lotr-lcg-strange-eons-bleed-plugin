@@ -1,0 +1,24 @@
+@cat-characters
+	@LRL-AllyBleed = diy:TheLordOfTheRingsLCG/diy/AllyBleed.js | TheLordOfTheRingsLCG/ui/Ally.png | LRL
+	@LRL-HeroBleed = diy:TheLordOfTheRingsLCG/diy/HeroBleed.js | TheLordOfTheRingsLCG/ui/Hero.png | LRL
+	@LRL-ObjectiveAllyBleed = diy:TheLordOfTheRingsLCG/diy/ObjectiveAllyBleed.js | TheLordOfTheRingsLCG/ui/ObjectiveAlly.png | LRL
+@cat-inventory
+	@LRL-AttachmentBleed = diy:TheLordOfTheRingsLCG/diy/AttachmentBleed.js | TheLordOfTheRingsLCG/ui/Attachment.png | LRL
+	@LRL-ContractBleed = diy:TheLordOfTheRingsLCG/diy/ContractBleed.js | TheLordOfTheRingsLCG/ui/Contract.png | LRL
+	@LRL-GiftBleed = diy:TheLordOfTheRingsLCG/diy/GiftBleed.js | TheLordOfTheRingsLCG/ui/Gift.png | LRL
+	@LRL-TreasureBleed = diy:TheLordOfTheRingsLCG/diy/TreasureBleed.js | TheLordOfTheRingsLCG/ui/Treasure.png | LRL
+@cat-rules
+	@LRL-CampaignBleed = diy:TheLordOfTheRingsLCG/diy/CampaignBleed.js | TheLordOfTheRingsLCG/ui/Campaign.png | LRL
+	@LRL-ObjectiveBleed = diy:TheLordOfTheRingsLCG/diy/ObjectiveBleed.js | TheLordOfTheRingsLCG/ui/Objective.png | LRL
+	@LRL-PreparationBleed = diy:TheLordOfTheRingsLCG/diy/PreparationBleed.js | TheLordOfTheRingsLCG/ui/Preparation.png | LRL
+	@LRL-QuestBleed = diy:TheLordOfTheRingsLCG/diy/QuestBleed.js | TheLordOfTheRingsLCG/ui/Quest.png | LRL
+	@LRL-SideQuestEncounterBleed = diy:TheLordOfTheRingsLCG/diy/SideQuestEncounterBleed.js | TheLordOfTheRingsLCG/ui/SideQuestEncounter.png | LRL
+	@LRL-SideQuestPlayerBleed = diy:TheLordOfTheRingsLCG/diy/SideQuestPlayerBleed.js | TheLordOfTheRingsLCG/ui/SideQuestPlayer.png | LRL
+@cat-enemies
+	@LRL-EnemyBleed = diy:TheLordOfTheRingsLCG/diy/EnemyBleed.js | TheLordOfTheRingsLCG/ui/Enemy.png | LRL
+@cat-effects
+	@LRL-EventBleed = diy:TheLordOfTheRingsLCG/diy/EventBleed.js | TheLordOfTheRingsLCG/ui/Event.png | LRL
+	@LRL-LocationBleed = diy:TheLordOfTheRingsLCG/diy/LocationBleed.js | TheLordOfTheRingsLCG/ui/Location.png | LRL
+	@LRL-TreacheryBleed = diy:TheLordOfTheRingsLCG/diy/TreacheryBleed.js | TheLordOfTheRingsLCG/ui/Treachery.png | LRL
+@cat-markers
+	@LRL-LocationPromoBleed = diy:TheLordOfTheRingsLCG/diy/LocationPromoBleed.js | TheLordOfTheRingsLCG/ui/LocationPromo.png | LRL

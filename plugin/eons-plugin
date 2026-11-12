@@ -1,0 +1,20 @@
+id = CATALOGUEID{5f1c4d7e-9b2a-4c3e-8f61-2b7d9e0a4c15:2026-11-12-16-58-28-855}
+
+priority = LOW
+ui-languages = en_US
+game-languages = en_US
+
+catalog-name = The Lord of the Rings LCG, print bleed
+catalog-credit = Nebs987 (from Karagh and GeckoTH's plug-in)
+catalog-description = <p>Adds print-ready versions of <i>The Lord of the Rings LCG</i> \
+    components whose frames include a 1/6" (12pt) bleed. Exports with a bleed \
+    margin show the real frame and artwork instead of a mirrored card edge.</p>\
+    <p>Requires The Lord of the Rings LCG plug-in and its HD add-ons.</p>\
+    <p>For fans of the game; <b>no commercial use</b>. Not produced or endorsed \
+    by Fantasy Flight Games.</p>
+catalog-game = LRL
+catalog-tags = bleed, print
+catalog-minver = 3970
+catalog-requires = CATALOGUEID{09870b88-3fd0-462e-83e8-25f29028a94a:2023-9-24-17-33-9-33}
+
+res://TheLordOfTheRingsLCG-Bleed/LRL-Bleed.js
