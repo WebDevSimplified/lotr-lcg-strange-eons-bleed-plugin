@@ -10,7 +10,7 @@ The original components are untouched: the bleed versions are added alongside th
 **[⬇ Download the latest version](https://github.com/WebDevSimplified/lotr-lcg-strange-eons-bleed-plugin/releases/latest/download/TheLordOfTheRingsLCG-Bleed.seext)**
 · [All releases and changes](https://github.com/WebDevSimplified/lotr-lcg-strange-eons-bleed-plugin/releases)
 
-![Ally: scan, this plug-in and the original plug-in side by side](docs/images/ally.jpg)
+![Burden Objective: scan, this plug-in and the original plug-in side by side](docs/images/objective-burden.jpg)
 
 ## Requirements
 
@@ -109,6 +109,8 @@ Each shows the printed card's scan, this plug-in, and the original plug-in with
 Strange Eons' standard (mirrored) bleed.
 
 ![Hero](docs/images/hero.jpg)
+![Ally](docs/images/ally.jpg)
+![Event](docs/images/event.jpg)
 ![Enemy](docs/images/enemy.jpg)
 ![Contract](docs/images/contract.jpg)
 ![Nightmare quest](docs/images/nightmare-quest.jpg)
